@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+    padding-top: 30px;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: crimson;
+    margin-bottom: 50px;
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: darkorange;
+}
+
+img {
+    transition: transform .2s;
+    width: 400px;
+    height: 400px;
+}
+
+img:hover {
+    transform: scale(.9);
+}
+
+.contanier {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: chocolate;
+    margin-bottom: 50px;
+}
+
+#myCarousel img {
+    height: 300px;
+    width: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    width: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel2 {
+    background-color: crimson;
+    margin-bottom: 50px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: papayawhip;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.heading1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#h1apps {
+    text-decoration: underline;
+}
